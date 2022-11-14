@@ -1,0 +1,8 @@
+{
+  "dag1_config":{
+    "host": "localhost",
+    "port": 27017,
+    "mongo_db": "DE5",
+    "mongo_collection": "DE5"
+  }
+}
